@@ -1,0 +1,44 @@
+{
+  "name": "Mooncatz #4",
+  "description": "you can't stop us meow, the catz takeover is coming...",
+  "image": "ipfs://QmcxMV7UQWHQRBaPXpty7tF2YhyJNbzGosiVbBpn6LqDS8/4.png",
+  "external_url": "ipfs://QmcxMV7UQWHQRBaPXpty7tF2YhyJNbzGosiVbBpn6LqDS8/4.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Hunter Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Moon Hat"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smug Green"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Short Tail Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Algorithmic"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Mooncatz #6",
+  "description": "you can't stop us meow, the catz takeover is coming...",
+  "image": "ipfs://QmcxMV7UQWHQRBaPXpty7tF2YhyJNbzGosiVbBpn6LqDS8/6.png",
+  "external_url": "ipfs://QmcxMV7UQWHQRBaPXpty7tF2YhyJNbzGosiVbBpn6LqDS8/6.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Exotic Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rubber Duck"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Half Moon Spectacles"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Open White"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Short Tail Brown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Algorithmic"
+    }
+  ]
+}

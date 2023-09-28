@@ -1,0 +1,44 @@
+{
+  "name": "Mooncatz #1",
+  "description": "you can't stop us meow, the catz takeover is coming...",
+  "image": "ipfs://QmcxMV7UQWHQRBaPXpty7tF2YhyJNbzGosiVbBpn6LqDS8/1.png",
+  "external_url": "ipfs://QmcxMV7UQWHQRBaPXpty7tF2YhyJNbzGosiVbBpn6LqDS8/1.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Tamed Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jean Jacket"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Lincoln"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Half Moon Spectacles"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Naughty"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Side Eye Blue"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Short Tail Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Algorithmic"
+    }
+  ]
+}

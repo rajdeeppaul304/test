@@ -1,0 +1,44 @@
+{
+  "name": "Mooncatz #5",
+  "description": "you can't stop us meow, the catz takeover is coming...",
+  "image": "ipfs://QmcxMV7UQWHQRBaPXpty7tF2YhyJNbzGosiVbBpn6LqDS8/5.png",
+  "external_url": "ipfs://QmcxMV7UQWHQRBaPXpty7tF2YhyJNbzGosiVbBpn6LqDS8/5.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Hunter Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie Down"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Open Blue"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Short Tail Brown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Algorithmic"
+    }
+  ]
+}

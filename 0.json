@@ -1,0 +1,44 @@
+{
+  "name": "Mooncatz #0",
+  "description": "you can't stop us meow, the catz takeover is coming...",
+  "image": "ipfs://QmcxMV7UQWHQRBaPXpty7tF2YhyJNbzGosiVbBpn6LqDS8/0.png",
+  "external_url": "ipfs://QmcxMV7UQWHQRBaPXpty7tF2YhyJNbzGosiVbBpn6LqDS8/0.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Exotic Pink"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hero Tunic"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hero Cap"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Big Tech"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smug Brown"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Short Tail Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Algorithmic"
+    }
+  ]
+}
